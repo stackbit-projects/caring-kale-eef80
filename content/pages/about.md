@@ -57,7 +57,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         align: left
         type: feature
   - type: grid_section
