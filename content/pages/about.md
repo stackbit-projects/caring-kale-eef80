@@ -41,7 +41,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >
-          # title
+          ![](/images/about-4.jpg)
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
